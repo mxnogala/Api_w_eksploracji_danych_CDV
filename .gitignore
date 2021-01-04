@@ -1,3 +1,11 @@
+glove.6B.50d.txt
+glove.6B.100d.txt
+glove.6B.100d.txt.word2vec
+glove.6B.200d.txt
+glove.6B.300d.txt
+glove.6B.zip
+wiki-news-300d-1M.vec
+wiki-news-300d-1M.vec.zip
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
